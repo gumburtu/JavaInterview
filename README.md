@@ -265,3 +265,4 @@ Bunlar, sınıf yapıcıları arasında geçiş yapmak için kullanılır. Her i
 👉 Overloading: Java'da, aynı sınıf içinde aynı isimli birden fazla metodun olmasına denir. Bu metodlar, aynı isimlerine rağmen farklı parametreler alırlar. Böylece, kod okunaklılığı arttırılabilir.
 
 👉 Overriding: Java'da, bir sınıfın kalıtım yoluyla erişebildiği üst sınıftaki aynı isimli metodun yeniden tanımlanmasına denir. Böylece, üst sınıftaki metodun işlevselliği değiştirilebilir ve kod tekrarı önlenebilir.
+![image](https://github.com/user-attachments/assets/c20bcfc0-a11c-4c06-84e7-e245d65bc5c0)
